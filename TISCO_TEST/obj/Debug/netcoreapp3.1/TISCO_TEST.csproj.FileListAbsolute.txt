@@ -1,0 +1,13 @@
+D:\TISCO\TISCO_TEST\TISCO_TEST\bin\Debug\netcoreapp3.1\TISCO_TEST.exe
+D:\TISCO\TISCO_TEST\TISCO_TEST\bin\Debug\netcoreapp3.1\TISCO_TEST.deps.json
+D:\TISCO\TISCO_TEST\TISCO_TEST\bin\Debug\netcoreapp3.1\TISCO_TEST.runtimeconfig.json
+D:\TISCO\TISCO_TEST\TISCO_TEST\bin\Debug\netcoreapp3.1\TISCO_TEST.runtimeconfig.dev.json
+D:\TISCO\TISCO_TEST\TISCO_TEST\bin\Debug\netcoreapp3.1\TISCO_TEST.dll
+D:\TISCO\TISCO_TEST\TISCO_TEST\bin\Debug\netcoreapp3.1\TISCO_TEST.pdb
+D:\TISCO\TISCO_TEST\TISCO_TEST\obj\Debug\netcoreapp3.1\TISCO_TEST.csprojAssemblyReference.cache
+D:\TISCO\TISCO_TEST\TISCO_TEST\obj\Debug\netcoreapp3.1\TISCO_TEST.AssemblyInfoInputs.cache
+D:\TISCO\TISCO_TEST\TISCO_TEST\obj\Debug\netcoreapp3.1\TISCO_TEST.AssemblyInfo.cs
+D:\TISCO\TISCO_TEST\TISCO_TEST\obj\Debug\netcoreapp3.1\TISCO_TEST.dll
+D:\TISCO\TISCO_TEST\TISCO_TEST\obj\Debug\netcoreapp3.1\TISCO_TEST.pdb
+D:\TISCO\TISCO_TEST\TISCO_TEST\obj\Debug\netcoreapp3.1\TISCO_TEST.genruntimeconfig.cache
+D:\TISCO\TISCO_TEST\TISCO_TEST\obj\Debug\netcoreapp3.1\TISCO_TEST.csproj.CoreCompileInputs.cache
